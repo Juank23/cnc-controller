@@ -113,4 +113,4 @@ GitHub автора: [https://github.com/bdring/Grbl_ESP32_MPCNC_Controller](htt
 
 Grbl Esp32: [https://github.com/bdring/Grbl_Esp32](https://github.com/bdring/Grbl_Esp32)
 
-Связаться со мной: dementiev@me.com
+Связаться со мной: info@dementiev.net
